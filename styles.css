@@ -1,0 +1,45 @@
+h1{
+	color:blue;
+	text-align: center;
+	border:3px solid #66ff33;
+}
+p{
+	color:red;
+	text-align: right;
+	border:5px dotted red;
+}
+div{
+	background-color: #1a6600;
+	width: 50%;
+	margin:30px;
+	padding:50px;
+	font-family: Arial, sans-serif;
+	font-size:28px;
+	font-weight: bold;
+}
+table{
+	border:2px solid #1a6600;
+	border-collapse: collapse;
+	width:50%;
+}
+th,td{
+	border: 1px dotted black;
+	padding :5px;
+}
+th{
+	background-color: lightgray;
+}
+#top{
+	font-size:40px;
+}
+#middle{
+	font-size: 30px;
+}
+#bottom{
+	font-size:20px;
+}
+.name{
+	font-weight: bold;
+	color:blue;
+}
+
